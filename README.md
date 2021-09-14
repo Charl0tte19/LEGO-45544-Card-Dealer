@@ -5,4 +5,4 @@
 - 製作的分解步驟可看[此投影片](https://docs.google.com/presentation/d/1JkQpHnebYQHOuGLuedqR0Verd2-iVnDa/edit?usp=sharing&ouid=113624610334893535813&rtpof=true&sd=true)，前提是要有樂高45544
 - 純粹做個記錄  
 
-<img src="https://raw.githubusercontent.com/Charl0tte19/LEGO-45544-Card-Dealer/main/Lego.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/Charl0tte19/LEGO-45544-Card-Dealer/main/Lego.png" width="50%"/>
